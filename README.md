@@ -6,8 +6,8 @@ o my perfil do github foi baseado neste video do youtube da Rafaella Ballerini  
 -->
 <div align="center">
   <a href="https://github.com/kawanmeireles">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawanmeireles&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawanmeireles&layout=compact&langs_count=7&theme=gruvbox_light"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kawanmeireles&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawanmeireles&layout=compact&langs_count=7&theme=gruvbox_light"/>
     
 </div>
   
@@ -20,6 +20,6 @@ iamgens das liguas de programação que eu estou estudando ou tenho alguma base.
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="center" alt="baby yoda" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/772610315023679508/924787029915631616/baby_yoda.gif">
+  <img align="right" alt="baby yoda" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/772610315023679508/924787029915631616/baby_yoda.gif">
 </div>
   

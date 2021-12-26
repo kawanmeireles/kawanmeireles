@@ -3,12 +3,13 @@
 - 🌱 I’m currently learning python
 <!--
 o my perfil do github foi baseado neste video do youtube da Rafaella Ballerini  https://www.youtube.com/watch?v=TsaLQAetPLU e esse é o link do repositório do Github Stats - https://github.com/anuraghazra/github-readme-stats
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawanmeireles&layout=compact&langs_count=7&theme=gruvbox_light"/>
 -->
-<div align="center">
+<div align="left">
   <a href="https://github.com/kawanmeireles">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=kawanmeireles&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawanmeireles&layout=compact&langs_count=7&theme=gruvbox_light"/>
-    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawanmeireles&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+
+  
 </div>
   
 <!--

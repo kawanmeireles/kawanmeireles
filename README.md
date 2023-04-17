@@ -1,7 +1,7 @@
 ### Hi! I am Kawan Meireles 👋
 
-- 🌱 I’m currently learning python
 <!--
+🌱 I’m currently learning python
 o my perfil do github foi baseado neste video do youtube da Rafaella Ballerini  https://www.youtube.com/watch?v=TsaLQAetPLU e esse é o link do repositório do Github Stats - https://github.com/anuraghazra/github-readme-stats
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawanmeireles&layout=compact&langs_count=7&theme=gruvbox_light"/>
 -->
